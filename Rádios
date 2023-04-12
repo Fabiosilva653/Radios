@@ -1,5 +1,27 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1", Rádio Itatiaia 610 AM (Belo Horizonte)
+#EXTINF:0 type="stream" channelId="-1",Rádio Terra 1330 AM (São Paulo-SP)
+https://cloud1.cdnseguro.com:16020/stream
+#EXTINF:0 type="stream" channelId="-1",Rádio Alvorada 100.1 FM (Parintins-AM)
+http://svrstream1.svreua.com:8016/stream
+#EXTINF:0 type="stream" channelId="-1",Rádio Amazonia 94.1 FM (Rio Branco-AC)
+http://stm.voxpainel.com.br:7052/stream
+#EXTINF:0 type="stream" channelId="-1",Rádio Lupa 1 94.5 FM (Teresina-PI)
+http://streaming.livecenter.com.br:6726/stream
+#EXTINF:0 type="stream" channelId="-1",Rádio Super Condá 98.9 FM (Chapecó-SC)
+https://streaming.grupoconda.com.br/radio/8020/radio.mp3
+#EXTINF:0 type="stream" channelId="-1",Rádio Progresso 103.5 FM (Sousa-PB)
+https://ssl.voxplayer.com.br:7012/stream
+#EXTINF:0 type="stream" channelId="-1",Rádio FYFM 610 AM (Mogi Mirim-SP)
+https://cast.hoost.com.br:8310/stream
+#EXTINF:0 type="stream" channelId="-1",Rádio Vale 90.5 FM (Barreiras-BA)
+https://servidor38-3.brlogic.com:8168/live
+#EXTINF:0 type="stream" channelId="-1",Rádio Cidade das Águas 101.3 FM (Amparo-SP)
+https://str1.streamhostpg.com.br:8008/stream
+#EXTINF:0 type="stream" channelId="-1",Rádio Dracena (Dracena-SP)
+https://cc3.streammaximum.com:20001/stream
+#EXTINF:0 type="stream" channelId="-1",Rádio Nova Regional 91.5 FM (Registro-SP)
+http://8784.brasilstream.com.br/stream
+#EXTINF:0 type="stream" channelId="-1", Rádio Itatiaia 610 AM (Belo Horizonte-MG)
 http://8903.brasilstream.com.br:8903/stream
 #EXTINF:0 type="stream" channelId="-1", Radio Globo 98.1 FM (Rio De Janeiro)
 http://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
@@ -11,15 +33,15 @@ http://stm.autodj.radio.br:7006/;
 https://antenaone.crossradio.com.br/stream/1;
 #EXTINF:0 type="stream" channelId="-1", Rádio Inconfidência  880 AM (Belo Horizonte / MG)
 http://srv39.brasilstream.com.br:8244/stream
-#EXTINF:0 type="stream" channelId="-1", Rádio Bandeirantes AM 840\\\\\\\\\\\\\\\\\\\\\, FM 90.9 (São Paulo / SP)
+#EXTINF:0 type="stream" channelId="-1", Rádio Bandeirantes 840 AM,90.9FM (São Paulo-SP)
 https://evpp.mm.uol.com.br/band/radiobandeirantes_sp/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rádio Uirapuru Jaguaribana AM 1460 (Morada Nova / CE)
 http://servidor17.brlogic.com:7450/live
-#EXTINF:0 type="stream" channelId="-1", Nacional Amazônia Ondas Curtas 11.780 KHZ 6.180 KHZ (Manaus / AM))
-https://radionacionalamazonia-stream.ebc.com.br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Nacional Amazônia Ondas Curtas 11.780 KHZ 6.180 KHZ (Manaus-AM)
+https://radionacionalamazonia-stream.ebc.com.br/ebc/radionacionalamazonia/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rádio Nova Brasil FM 89.7 (São Paulo / SP)
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SPAAC.aac
-#EXTINF:0 type="stream" channelId="-1", Rádio 96 FM  (Bauru / SP)
+#EXTINF:0 type="stream" channelId="-1", Rádio 96 FM  (Bauru-SP)
 https://streaming.ei3.com.br/radio/8000/mp3
 #EXTINF:0 type="stream" channelId="-1", Rádio UNESP FM 105.7 (Bauru / SP)
 https://fm.unesp.br/unespfm.mp3
