@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",
+
+#EXTINF:0 type="stream" channelId="-1",Rádio Alpha 89.9 FM (Brasília-DF)
+https://ice.fabricahost.com.br/alphafm899bsb
+#EXTINF:0 type="stream" channelId="-1",Rádio Alpha 101.7 FM (São Paulo-SP)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac
+#EXTINF:0 type="stream" channelId="-1",Rádio Câmara 96.9 FM (Brasília-DF)
+http://stream3.camara.gov.br/radiocamara1t64/manifest.m3u8
+#EXTINF:0 type="stream" channelId="-1",Rádio Cultura 98.1 FM Itatiba do Sul-RS)
+https://server3.webradios.com.br:19312/9312
+#EXTINF:0 type="stream" channelId="-1",Rádio Nativa 95.3 FM (São Paulo-SP)
+https://playerservices.streamtheworld.com/api/livestream-redirect/NATIVA_SPAAC.m3u8?dist=radios.com.br
+#EXTINF:0 type="stream" channelId="-1",Rádio Nova Brasil 89.7 FM (São Paulo-SP)
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SPAAC.aac
+#EXTINF:0 type="stream" channelId="-1",Rádio Transamérica 100.1 FM (São Paulo-SP)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac
+#EXTINF:0 type="stream" channelId="-1",Rádio Energia 97.7 FM (São Paulo-SP)
+https://streaming.inweb.com.br/energia
+#EXTINF:0 type="stream" channelId="-1",Rádio USP 93.7 FM (São Paulo-SP)
+http://flow.emm.usp.br:8007/radiousp-128.mp3
+#EXTINF:0 type="stream" channelId="-1",Rádio Capital 77.5 FM (São Paulo-SP)
+https://ice.fabricahost.com.br/capitalfmsp
+#EXTINF:0 type="stream" channelId="-1",Rádio BandNews SP 96.9 FM
+https://20833.live.streamtheworld.com/BANDNEWSFM_SPAAC/HLS/bb738813-1fc8-4114-93bf-03d96b9f0ee0/0/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",Rádio 365
+https://str1.castradios.com.br:10998/;
 #EXTINF:0 type="stream" channelId="-1",Rádio Terra 1330 AM (São Paulo-SP)
 https://cloud1.cdnseguro.com:16020/stream
 #EXTINF:0 type="stream" channelId="-1",Rádio Alvorada 100.1 FM (Parintins-AM)
