@@ -1,6 +1,20 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1",
-
+#EXTINF:0 type="stream" channelId="-1",Rádio Difusora 1010 AM (Lençóis Paulista-SP) 
+http://wz3.dnip.com.br:1935/dif1010/dif1010.stream/chunklist_w1912460558.m3u8
+#EXTINF:0 type="stream" channelId="-1",Rádio Celinauta 1010 AM (Pato Branco-PR)
+http://radio.radiocelinauta.com.br:1600/radio.aac
+#EXTINF:0 type="stream" channelId="-1",Rádio Independente 104.9 FM (Ichu-BA)
+https://ssl.srvstm.com:10022/;
+#EXTINF:0 type="stream" channelId="-1",Rádio Diário 99.7 FM (Ribeirão Preto-SP)
+http://pontofixo-megasistema.webnow.com.br/diario.aac
+#EXTINF:0 type="stream" channelId="-1",Rádio Catu 104.9 FM (Catu-BA)
+http://server02.stmsg.top:6798/stream
+#EXTINF:0 type="stream" channelId="-1",Rádio Vale do Quincoê 97.9 FM (Acopiara-CE)
+https://radion.jmhost.com.br/radio/8030/;
+#EXTINF:0 type="stream" channelId="-1",Rádio Massa 103.7 FM (Telêmaco Borba-PR)
+https://stm01.virtualcast.com.br:8156/massatelemaco
+#EXTINF:0 type="stream" channelId="-1",Rádio Roma 90.5 FM (Belém-PA)
+https://www.bravecenterhost.com:8014/stream
 #EXTINF:0 type="stream" channelId="-1",Rádio Alpha 89.9 FM (Brasília-DF)
 https://ice.fabricahost.com.br/alphafm899bsb
 #EXTINF:0 type="stream" channelId="-1",Rádio Alpha 101.7 FM (São Paulo-SP)
@@ -75,8 +89,8 @@ https://26683.live.streamtheworld.com/RADIOBANDEIRANTESAAC/HLS/330c7d6b-fea0-44f
 http://servidor17.brlogic.com:7450/live
 #EXTINF:0 type="stream" channelId="-1", Nacional Amazônia Ondas Curtas 11.780 KHZ 6.180 KHZ (Manaus-AM)
 https://radionacionalamazonia-stream.ebc.com.br/ebc/radionacionalamazonia/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rádio Nova Brasil FM 89.7 (São Paulo / SP)
-https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SPAAC.aac
+#EXTINF:0 type="stream" channelId="-1",Rádio Diário 1010 AM (Martinópolis-SP)
+http://centova.streamingbr.com:8008/stream
 #EXTINF:0 type="stream" channelId="-1", Rádio 96FM 96.9FM  (Bauru-SP)
 https://streaming.ei3.com.br/radio/8000/mp3
 #EXTINF:0 type="stream" channelId="-1", Rádio UNESP 105.7 FM (Bauru-SP)
