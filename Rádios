@@ -22,7 +22,7 @@ http://flow.emm.usp.br:8007/radiousp-128.mp3
 #EXTINF:0 type="stream" channelId="-1",Rádio Capital 77.5 FM (São Paulo-SP)
 https://ice.fabricahost.com.br/capitalfmsp
 #EXTINF:0 type="stream" channelId="-1",Rádio BandNews SP 96.9 FM
-https://20833.live.streamtheworld.com/BANDNEWSFM_SPAAC/HLS/bb738813-1fc8-4114-93bf-03d96b9f0ee0/0/playlist.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC.m3u8?dist=radios.com.br
 #EXTINF:0 type="stream" channelId="-1",Rádio 365
 https://str1.castradios.com.br:10998/;
 #EXTINF:0 type="stream" channelId="-1",Rádio Terra 1330 AM (São Paulo-SP)
@@ -50,33 +50,49 @@ http://8784.brasilstream.com.br/stream
 #EXTINF:0 type="stream" channelId="-1", Rádio Itatiaia 610 AM (Belo Horizonte-MG)
 http://8903.brasilstream.com.br:8903/stream
 #EXTINF:0 type="stream" channelId="-1", Radio Globo 98.1 FM (Rio De Janeiro)
-http://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_GLOBO_RJAAC.aac?dist=radioscombr
 #EXTINF:0 type="stream" channelId="-1", Rádio Hot 107 FM (Lencois Paulista / SP)
-https://shout35.crossradio.com.br:18116/stream
+https://9772.brasilstream.com.br/stream
+#EXTINF:0 type="stream" channelId="-1",Rádio Hot Mix 107.5 FM (Araraquara-SP)
+https://r13.ciclano.io:15029/stream
+#EXTINF:0 type="stream" channelId="-1",Rádio Hot 98.1 FM (Santos-SP)
+https://f54.fabricahost.com.br/hot98santos?f=1681991015N01GYF7M70C93QPTH3MRTYZ5SE9&tid=01GXYGWKGFFEA2ZWNQ7YQJ271Q
 #EXTINF:0 type="stream" channelId="-1", Rádio Difusora Pantanal 101.9 FM (Campo Grande / MS)
-http://stm.autodj.radio.br:7006/;
+https://ssl.painelshoutcast.com.br:7004/stream.mp3
+#EXTINF:0 type="stream" channelId="-1",Rádio Pé Vermelho 100.3 FM (Barbosa Ferraz-PR)
+https://f48.fabricahost.com.br/radiopevermelho?f=1681991193N01GYF7SMW27TN68BVKSW1W7AA5&tid=01GXYGWKGFFEA2ZWNQ7YQJ271Q
+#EXTINF:0 type="stream" channelId="-1",Rádio Mais 90.9 FM (Maringá-PR)
+https://f52.fabricahost.com.br/maismaringapr?f=1681990702N01GYF7ANW3HP5EPQ2R1WAGVXNQ&tid=01GXYGWKGFFEA2ZWNQ7YQJ271Q
 #EXTINF:0 type="stream" channelId="-1", Rádio Antena 1 FM 94.7 (São Paulo / SP)
 https://antenaone.crossradio.com.br/stream/1;
 #EXTINF:0 type="stream" channelId="-1", Rádio Inconfidência  880 AM (Belo Horizonte / MG)
-http://srv39.brasilstream.com.br:8244/stream
+https://ssl.zoeweb.net/proxy/inconfidencia2?mp=/stream
+#EXTINF:0 type="stream" channelId="-1", Rádio Amizade 99.7 FM (Umuarama-PR)
+https://f52.fabricahost.com.br/amizadefmpr?f=1681991382N01GYF7ZDDE9B2BMHVZ4N9YXTFG&tid=01GXYGWKGFFEA2ZWNQ7YQJ271Q
 #EXTINF:0 type="stream" channelId="-1", Rádio Bandeirantes 840 AM,90.9FM (São Paulo-SP)
-https://evpp.mm.uol.com.br/band/radiobandeirantes_sp/playlist.m3u8
+https://26683.live.streamtheworld.com/RADIOBANDEIRANTESAAC/HLS/330c7d6b-fea0-44f7-b3ed-dbab84288ee2/0/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rádio Uirapuru Jaguaribana AM 1460 (Morada Nova / CE)
 http://servidor17.brlogic.com:7450/live
 #EXTINF:0 type="stream" channelId="-1", Nacional Amazônia Ondas Curtas 11.780 KHZ 6.180 KHZ (Manaus-AM)
 https://radionacionalamazonia-stream.ebc.com.br/ebc/radionacionalamazonia/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rádio Nova Brasil FM 89.7 (São Paulo / SP)
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SPAAC.aac
-#EXTINF:0 type="stream" channelId="-1", Rádio 96 FM  (Bauru-SP)
+#EXTINF:0 type="stream" channelId="-1", Rádio 96FM 96.9FM  (Bauru-SP)
 https://streaming.ei3.com.br/radio/8000/mp3
-#EXTINF:0 type="stream" channelId="-1", Rádio UNESP FM 105.7 (Bauru / SP)
-https://fm.unesp.br/unespfm.mp3
-#EXTINF:0 type="stream" channelId="-1", Rádio 94 FM (Bauru / SP)
+#EXTINF:0 type="stream" channelId="-1", Rádio UNESP 105.7 FM (Bauru-SP)
+https://audio.tv.unesp.br/unespfm
+#EXTINF:0 type="stream" channelId="-1",Rádio Tupã 97.7 FM (Tupã-SP)
+http://186.193.32.62:8911/listen.mp3;
+#EXTINF:0 type="stream" channelId="-1", Rádio 94FM 94.5FM (Bauru-SP)
 https://centova.svdns.com.br:20148/stream
 #EXTINF:0 type="stream" channelId="-1", Rádio Atlântida FM 94.3 (Porto Alegre / RS)
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rádio FM O Dia FM 100.5 (Rio De Janeiro / RJ)
-http://streaming.livecenterhost.com:8054/stream
+#EXTINF:0 type="stream" channelId="-1", Rádio FM O Dia FM 100,5FM (Rio De Janeiro / RJ)
+http://streaming.livespanel.com:20000/live
+#EXTINF:0 type="stream" channelId="-1",Rádio FM O Dia 100,5FM (Marabá-PA)
+http://streaming.livespanel.com:20000/live
+#EXTINF:0 type="stream" channelId="-1",Rádio FM O Dia 92,7FM (Teresina-PI)
+https://ssl1.transmissaodigital.com:2780/stream
 #EXTINF:0 type="stream" channelId="-1", Rádio FM Premium (Porto Alegre / RS)
 http://cast4.audiostream.com.br:8663/mp3
 #EXTINF:0 type="stream" channelId="-1", Rádio Ambiente (Caxias Do Sul / RS)
