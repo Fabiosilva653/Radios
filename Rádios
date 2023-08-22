@@ -1,4 +1,17 @@
 #EXTM3U
+
+EXTINF:0 type="stream" channelId="-1",
+
+EXTINF:0 type="stream" channelId="-1",Petrópolis Rádio Difusora 1320 AM (Petrópolis-RJ)
+https://s13.maxcast.com.br:8194/live
+EXTINF:0 type="stream" channelId="-1",Rádio Difusora Prime 97.5 FM (Formiga-MG)
+http://servidor31.brlogic.com:8124/live
+EXTINF:0 type="stream" channelId="-1",Rádio Hits 106.9 FM (Macaé-RJ)
+https://wz7.servidoresbrasil.com:9984/stream
+EXTINF:0 type="stream" channelId="-1",Rádio Estância 94.3 FM (São Lourenço-MG)
+https://r13.ciclano.io:15073/stream
+EXTINF:0 type="stream" channelId="-1",Rádio Ativa Mais HD (Batayporã-MS)
+https://stm8.painelvox.com:8582/stream
 #EXTINF:0 type="stream" channelId="-1",Rádio Emissora da Barra 1030 AM (Barra Bonita-SP)
 https://stm7.voxhd.com.br:7482/stream
 #EXTINF:0 type="stream" channelId="-1",Rádio Clube 580 AM (Americana-SP)
