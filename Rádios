@@ -1,7 +1,19 @@
+
 #EXTM3U
 
-EXTINF:0 type="stream" channelId="-1",
-
+EXTINF:0 type="stream" channelId="-1",Rádio  Fan 99.7FM (Aracaju-SE)
+http://69.30.202.98:7114/stream
+EXTINF:0 type="stream" channelId="-1",Rádio Fronteira 104.9 FM (Oiapoque-AP
+http://stream.zeno.fm/6zunf9qesc9uv
+EXTINF:0 type="stream" channelId="-1",Rádio Fronteira 102.3 FM (Presidente Prudente-SP)
+https://painel.streamingbr.com:8000/;stream.mp3
+EXTINF:0 type="stream" channelId="-1",Rádio Fronteira 106.9 FM (Corumbá- MS)
+http://suaradio1.dyndns.ws:10688/stream
+EXTINF:0 type="stream" channelId="-1",Rádio Fronteira 101.7 FM (Foz do Iguaçu-PR)
+https://centova3.transmissaodigital.com:20012/stream
+EXTINF:0 type="stream" channelId="-1", Rádio 98.1 FM
+(Ipatinga - MG) 
+https://9526.brasilstream.com.br/stream
 EXTINF:0 type="stream" channelId="-1",Petrópolis Rádio Difusora 1320 AM (Petrópolis-RJ)
 https://s13.maxcast.com.br:8194/live
 EXTINF:0 type="stream" channelId="-1",Rádio Difusora Prime 97.5 FM (Formiga-MG)
@@ -17,7 +29,7 @@ https://stm7.voxhd.com.br:7482/stream
 #EXTINF:0 type="stream" channelId="-1",Rádio Clube 580 AM (Americana-SP)
 http://r13.ciclano.io:8230/live
 #EXTINF:0 type="stream" channelId="-1",Rádio Tchê São Gabriel 580 AM (São Gabriel-RS)
-http://centova17.ciclanohost.com.br:8449/stream
+http://stream02.ouveai.com.br:8012/stream
 #EXTINF:0 type="stream" channelId="-1",Rádio Grande Lago 580 AM (Santa Helena-PR)
 https://str1.streamhostpg.com.br:8018/stream
 #EXTINF:0 type="stream" channelId="-1",Rádio Serra Azul 580 AM (Caiapônia-GO)
@@ -29,23 +41,23 @@ http://ip2.paineldj5.com.br:9314/stream
 #EXTINF:0 type="stream" channelId="-1",Rádio Eldorado 570 AM (Criciúma-SC)
 https://eldorado.jmvstream.com/stream
 #EXTINF:0 type="stream" channelId="-1",Rádio Fronteira 570 AM (Dionísio Cerqueira- SC)
-https://r4---sn-bg07dnr7.c.2mdn.net/videoplayback/id/38db1ff4118808ab/itag/346/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3799334576/sparams/acao,ctier,expire,id,ip,ipbits,itag,mh,mip,mm,mn,ms,mv,mvi,pl,source/signature/27759A256C17B9DFE8AC39DB595E1A2E03961317.2ACD92CB58A1183FD0D51407971B880AE6783199/key/cms1/cms_redirect/yes/mh/Od/mip/2804:14c:5781:9698:ad32:62d0:6bc7:8b52/mm/42/mn/sn-bg07dnr7/ms/onc/mt/1683551404/mv/u/mvi/4/pl/58/file/file.mp4
+https://serv6.audiovox.pw:7040/stream
 #EXTINF:0 type="stream" channelId="-1",Rádio Verdes Mares 92.5 FM Verdinha (Fortaleza-CE)
 https://jvcs2dtro0.zoeweb.tv/z18-live/stream/chunklist_w365983077.m3u8
 #EXTINF:0 type="stream" channelId="-1",Rádio Lupa 1 FM 94.5 (Teresina-PI)
-http://streaming.livecenter.com.br:6726/stream
+https://streaming.livespanel.com:9450/lupa1f
 #EXTINF:0 type="stream" channelId="-1",Rádio João Pessoa 97.7 FM (João Pessoa-PB)
 https://serv3.audiovox.pw:7084/stream
 #EXTINF:0 type="stream" channelId="-1",Rádio 101.1 FM (João Câmara-RN)
 http://hts06.kshost.com.br:10788/stream
-#EXTINF:0 type="stream" channelId="-1",Rádio 104 FM (Natal-RN)
-https://r1---sn-bg07dnrk.c.2mdn.net/videoplayback/id/3eecff9e4ce326ca/itag/346/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/1715007844/sparams/acao,ctier,expire,id,ip,ipbits,itag,mh,mip,mm,mn,ms,mv,mvi,pl,source/signature/231360CD2DE1EA5DE4CAB2ECBDE59CE6981DFC6C.6039C0E3DA3AF965BE51B89E4ECD0606600F034E/key/cms1/cms_redirect/yes/mh/hO/mip/2804:1b3:a4c0:42ed:ad32:62d0:6bc7:8b52/mm/42/mn/sn-bg07dnrk/ms/onc/mt/1683471402/mv/m/mvi/1/pl/42/file/file.mp4
+#EXTINF:0 type="stream" channelId="-1",Rádio 104 FM (Natal-RN
+https://radios.braviahost.com.br:8000/radio.mp3
 #EXTINF:0 type="stream" channelId="-1",Rádio Difusora 1010 AM (Lençóis Paulista-SP) 
 http://wz3.dnip.com.br:1935/dif1010/dif1010.stream/chunklist_w1912460558.m3u8
 #EXTINF:0 type="stream" channelId="-1",Rádio Celinauta 1010 AM (Pato Branco-PR)
 http://radio.radiocelinauta.com.br:1600/radio.aac
 #EXTINF:0 type="stream" channelId="-1",Rádio Independente 104.9 FM (Ichu-BA)
-https://ssl.srvstm.com:10022/;
+https://stm10.xcast.com.br:6982/stream
 #EXTINF:0 type="stream" channelId="-1",Rádio Diário 99.7 FM (Ribeirão Preto-SP)
 http://pontofixo-megasistema.webnow.com.br/diario.aac
 #EXTINF:0 type="stream" channelId="-1",Rádio Catu 104.9 FM (Catu-BA)
@@ -152,3 +164,4 @@ https://ssl1.transmissaodigital.com:2780/stream
 http://cast4.audiostream.com.br:8663/mp3
 #EXTINF:0 type="stream" channelId="-1", Rádio Ambiente (Caxias Do Sul / RS)
 http://server02.ouvir.radio.br:8050/stream
+
