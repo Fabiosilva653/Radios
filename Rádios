@@ -1,5 +1,6 @@
 
 #EXTM3U
+
 EXTINF:0 type="stream" channelId="-1",Classic pan
 https://www.radios.com.br/aovivo/radio-classic-pan-767-fm-620-am/107070
 EXTINF:0 type="stream" channelId="-1",Rádio  Fan 99.7FM (Aracaju-SE)
@@ -12,8 +13,7 @@ EXTINF:0 type="stream" channelId="-1",Rádio Fronteira 106.9 FM (Corumbá- MS)
 http://suaradio1.dyndns.ws:10688/stream
 EXTINF:0 type="stream" channelId="-1",Rádio Fronteira 101.7 FM (Foz do Iguaçu-PR)
 https://centova3.transmissaodigital.com:20012/stream
-EXTINF:0 type="stream" channelId="-1", Rádio 98.1 FM
-(Ipatinga - MG) 
+EXTINF:0 type="stream" channelId="-1", Rádio 98.1 FM(Ipatinga - MG) 
 https://9526.brasilstream.com.br/stream
 EXTINF:0 type="stream" channelId="-1",Petrópolis Rádio Difusora 1320 AM (Petrópolis-RJ)
 https://s13.maxcast.com.br:8194/live
