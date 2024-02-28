@@ -1,8 +1,8 @@
 
 #EXTM3U
 
-EXTINF:0 type="stream" channelId="-1",Classic pan
-https://www.radios.com.br/aovivo/radio-classic-pan-767-fm-620-am/107070
+EXTINF:0 type="stream" channelId="-1", A Guardia da Noticia
+http://radio.garden/listen/a-guardia-da-noticia/jWri47LN
 EXTINF:0 type="stream" channelId="-1",Rádio  Fan 99.7FM (Aracaju-SE)
 http://69.30.202.98:7114/stream
 EXTINF:0 type="stream" channelId="-1",Rádio Fronteira 104.9 FM (Oiapoque-AP
