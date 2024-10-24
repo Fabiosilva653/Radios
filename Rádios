@@ -1,8 +1,6 @@
-
-
-
 #EXTM3U
-
+EXTINF:0 type="stream" channelId="-1",M80
+https://stream-hls.bauermedia.pt/m80.aac/playlist.m3u8?listeningSessionID=66cfb4428948cf2c_4884141_6vbkaAZQ__000000094Ba&downloadSessionID=0
 EXTINF:0 type="stream" channelId="-1",panorâmica clássica
 https://www.radios.com.br/aovivo/radio-classic-pan-767-fm-620-am/107070
 EXTINF:0 type="stream" channelId="-1",Rádio Fan 99.7FM (Aracaju-SE)
